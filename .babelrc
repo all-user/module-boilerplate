@@ -1,0 +1,11 @@
+{
+  "presets": ["es2016"],
+  "env": {
+    "development": {
+      "presets": ["power-assert"]
+    },
+    "production": {
+      "plugins": ["unassert"]
+    }
+  }
+}
