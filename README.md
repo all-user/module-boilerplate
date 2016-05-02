@@ -1,4 +1,4 @@
-# browser-boilerplate
+# module-boilerplate
 
 Boilerplate for `babel`, `jade`, `stylus`, `mocha`, `power-assert`, `eslint`, project.
 
