@@ -1,10 +1,10 @@
 # browser-boilerplate
 
-Boilerplate for `browserify`, `babel`, `jade`, `stylus`, `testem`, `mocha`, `power-assert`, `eslint`, `browser-sync` project.
+Boilerplate for `babel`, `jade`, `stylus`, `mocha`, `power-assert`, `eslint`, project.
 
 ## Install
 ```shell
-$ git clone git@github.com:all-user/browser-boilerplate.git ./my-project
+$ git clone git@github.com:all-user/module-boilerplate.git ./my-project
 $ cd my-project
 $ npm i
 ```
