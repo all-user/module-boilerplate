@@ -1,6 +1,6 @@
 # module-boilerplate
 
-Boilerplate for `babel`, `jade`, `stylus`, `mocha`, `power-assert`, `eslint`, project.
+Boilerplate for `babel`, `mocha`, `power-assert`, `eslint`, project.
 
 ## Install
 ```shell
