@@ -1,10 +1,10 @@
-# module-boilerplate
+# module-seed
 
-Boilerplate for `babel`, `mocha`, `power-assert`, `eslint`, project.
+seed for `babel`, `mocha`, `power-assert`, `eslint`, project.
 
 ## Install
 ```shell
-$ git clone git@github.com:all-user/module-boilerplate.git ./my-project
+$ git clone git@github.com:all-user/module-seed.git ./my-project
 $ cd my-project
 $ npm i
 ```
