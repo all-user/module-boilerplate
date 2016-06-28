@@ -6,10 +6,8 @@
   "jsnext:main": "src/index.js",
   "scripts": {
     "help": "npm-run-help",
-    "test": "mocha test/lib/*.test.js",
-    "testw": "mocha -w test/lib/*.test.js",
-    "build:testjs": "babel test/src/ -d test/lib/",
-    "watch:testjs": "babel -w test/src/ -d test/lib/",
+    "test": "BABEL_ENV=test mocha test/**/*.test.js",
+    "testw": "BABEL_ENV=test mocha -w test/lib/*.test.js",
     "build:js": "babel src/ -d lib/",
     "watch:js": "babel -w src/ -d lib/",
     "release:js": "NODE_ENV=production babel src/ -d lib/",
