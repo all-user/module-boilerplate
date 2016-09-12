@@ -1,5 +1,5 @@
 {
-  "presets": ["es2016"],
+  "presets": ["latest"],
   "env": {
     "development": {
       "presets": ["power-assert"]
