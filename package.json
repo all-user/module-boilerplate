@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/all-user/browser-seed.git"
+    "url": "git+ssh://git@github.com/all-user/module-seed.git"
   },
   "keywords": [
     "seed",
@@ -31,9 +31,9 @@
   "author": "Keita Okamoto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/all-user/browser-seed/issues"
+    "url": "https://github.com/all-user/module-seed/issues"
   },
-  "homepage": "https://github.com/all-user/browser-seed#readme",
+  "homepage": "https://github.com/all-user/module-seed#readme",
   "devDependencies": {
     "babel-cli": "^6.7.7",
     "babel-eslint": "^6.0.4",
